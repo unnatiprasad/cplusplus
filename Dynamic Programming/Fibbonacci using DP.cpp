@@ -19,3 +19,5 @@ int main()
 	vector <int> dp(n+1,-1);
 	cout<<f(n,dp);
 }
+#Time complexity is O(n), Space Complexity=O(n) for stack space + O(n) for vector
+
